@@ -2,3 +2,6 @@
 *.png
 Snipaste_*
 .canvas-edge-profile/
+.sources/
+.checks/
+node_modules/
