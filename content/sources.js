@@ -482,5 +482,879 @@ window.SOURCES=[
         "url": "https://www.inspire.edu.gr/wp-content/pdfs/uncovering_remote_peering_interconnections_v1.pdf"
       }
     ]
+  },
+  {
+    "lesson": 5,
+    "name": "Lesson 5: Router Design and Algorithms (Part 1)",
+    "pages": [
+      {
+        "title": "Lesson 5 Overview & Introductory Materials",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-5-overview-and-introductory-materials"
+      },
+      {
+        "title": "Lesson 5 Readings and Additional Resources ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-5-readings-and-additional-resources"
+      },
+      {
+        "title": "What's Inside a Router?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/whats-inside-a-router"
+      },
+      {
+        "title": "Router Architecture",
+        "url": "https://gatech.instructure.com/courses/525598/pages/router-architecture"
+      },
+      {
+        "title": "Different Types of Switching",
+        "url": "https://gatech.instructure.com/courses/525598/pages/different-types-of-switching"
+      },
+      {
+        "title": "The Challenges Routers Face",
+        "url": "https://gatech.instructure.com/courses/525598/pages/the-challenges-routers-face"
+      },
+      {
+        "title": "Prefix-Match Lookups",
+        "url": "https://gatech.instructure.com/courses/525598/pages/prefix-match-lookups"
+      },
+      {
+        "title": "Unibit Tries",
+        "url": "https://gatech.instructure.com/courses/525598/pages/unibit-tries"
+      },
+      {
+        "title": "Multibit Tries",
+        "url": "https://gatech.instructure.com/courses/525598/pages/multibit-tries"
+      },
+      {
+        "title": "Prefix Expansion",
+        "url": "https://gatech.instructure.com/courses/525598/pages/prefix-expansion"
+      },
+      {
+        "title": "Multibit tries: Fixed-Stride",
+        "url": "https://gatech.instructure.com/courses/525598/pages/multibit-tries-fixed-stride"
+      },
+      {
+        "title": "Multibit Tries: Variable Stride",
+        "url": "https://gatech.instructure.com/courses/525598/pages/multibit-tries-variable-stride"
+      }
+    ],
+    "materials": [
+      {
+        "title": "Modules 5and6 Part1 - Summary Video - Transcript.pdf",
+        "url": "https://gatech.instructure.com/courses/525598/files/75293325?wrap=1"
+      },
+      {
+        "title": "OMSCS6250_Modules_5and6_Summary_Part1and2_Slides.pdf",
+        "url": "https://gatech.instructure.com/courses/525598/files/75293395?wrap=1"
+      }
+    ],
+    "readings": [
+      {
+        "title": "https://pdfs.semanticscholar.org/71d9/018e900f99ff60653b3769160131e775873f.pdf",
+        "url": "https://pdfs.semanticscholar.org/71d9/018e900f99ff60653b3769160131e775873f.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 6,
+    "name": "Lesson 6: Router Design and Algorithms (Part 2)",
+    "pages": [
+      {
+        "title": "Lesson 6 Overview & Introductory Materials",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-6-overview-and-introductory-materials"
+      },
+      {
+        "title": "Lesson 6 Readings and Additional Resources ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-6-readings-and-additional-resources"
+      },
+      {
+        "title": "Why We Need Packet Classification?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/why-we-need-packet-classification"
+      },
+      {
+        "title": "Packet Classification: Simple Solutions",
+        "url": "https://gatech.instructure.com/courses/525598/pages/packet-classification-simple-solutions"
+      },
+      {
+        "title": "Fast Searching Using Set-Pruning Tries",
+        "url": "https://gatech.instructure.com/courses/525598/pages/fast-searching-using-set-pruning-tries"
+      },
+      {
+        "title": "Reducing Memory Using Backtracking",
+        "url": "https://gatech.instructure.com/courses/525598/pages/reducing-memory-using-backtracking"
+      },
+      {
+        "title": "Grid of Tries",
+        "url": "https://gatech.instructure.com/courses/525598/pages/grid-of-tries"
+      },
+      {
+        "title": "Scheduling and Head of Line Blocking",
+        "url": "https://gatech.instructure.com/courses/525598/pages/scheduling-and-head-of-line-blocking"
+      },
+      {
+        "title": "Avoiding Head of Line Blocking",
+        "url": "https://gatech.instructure.com/courses/525598/pages/avoiding-head-of-line-blocking"
+      },
+      {
+        "title": "Scheduling Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/scheduling-introduction"
+      },
+      {
+        "title": "Deficit Round Robin",
+        "url": "https://gatech.instructure.com/courses/525598/pages/deficit-round-robin"
+      },
+      {
+        "title": "Traffic Scheduling: Token Bucket",
+        "url": "https://gatech.instructure.com/courses/525598/pages/traffic-scheduling-token-bucket"
+      },
+      {
+        "title": "Traffic Scheduling: Leaky Bucket",
+        "url": "https://gatech.instructure.com/courses/525598/pages/traffic-scheduling-leaky-bucket"
+      }
+    ],
+    "materials": [
+      {
+        "title": "Modules 5and6 Part2 - Summary Video - Transcript.pdf",
+        "url": "https://gatech.instructure.com/courses/525598/files/75293353?wrap=1"
+      },
+      {
+        "title": "OMSCS6250_Modules_5and6_Summary_Part1and2_Slides.pdf",
+        "url": "https://gatech.instructure.com/courses/525598/files/75293395?wrap=1"
+      }
+    ],
+    "readings": [
+      {
+        "title": "https://pdfs.semanticscholar.org/71d9/018e900f99ff60653b3769160131e775873f.pdf",
+        "url": "https://pdfs.semanticscholar.org/71d9/018e900f99ff60653b3769160131e775873f.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 7,
+    "name": "Lesson 7: SDN (Part 1)",
+    "pages": [
+      {
+        "title": "Lesson 7 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-7-introduction"
+      },
+      {
+        "title": "Lesson 7 Readings and Additional Resources ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-7-readings-and-additional-resources"
+      },
+      {
+        "title": "What led us to SDN?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/what-led-us-to-sdn"
+      },
+      {
+        "title": "A Brief History of SDN: The Milestones",
+        "url": "https://gatech.instructure.com/courses/525598/pages/a-brief-history-of-sdn-the-milestones"
+      },
+      {
+        "title": "Why Separate the Data Plane from the Control Plane?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/why-separate-the-data-plane-from-the-control-plane"
+      },
+      {
+        "title": "Control Plane and Data Plane Separation",
+        "url": "https://gatech.instructure.com/courses/525598/pages/control-plane-and-data-plane-separation"
+      },
+      {
+        "title": "The SDN Architecture",
+        "url": "https://gatech.instructure.com/courses/525598/pages/the-sdn-architecture"
+      },
+      {
+        "title": "The SDN Controller Architecture",
+        "url": "https://gatech.instructure.com/courses/525598/pages/the-sdn-controller-architecture"
+      },
+      {
+        "title": "Optional: OpenDayLight Architecture Overview",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-opendaylight-architecture-overview"
+      },
+      {
+        "title": "Optional: Hands-on OpenDayLight (Getting Started)",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-hands-on-opendaylight-getting-started"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf",
+        "url": "https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf"
+      },
+      {
+        "title": "https://arxiv.org/pdf/1406.0440.pdf",
+        "url": "https://arxiv.org/pdf/1406.0440.pdf"
+      },
+      {
+        "title": "https://classpages.cselabs.umn.edu/Fall-2019/csci8211/Papers/SDN%20Controller%20ONOS-hotsdn14.pdf",
+        "url": "https://classpages.cselabs.umn.edu/Fall-2019/csci8211/Papers/SDN%20Controller%20ONOS-hotsdn14.pdf"
+      },
+      {
+        "title": "https://www.cs.princeton.edu/~jrex/papers/P4-ccr14.pdf",
+        "url": "https://www.cs.princeton.edu/~jrex/papers/P4-ccr14.pdf"
+      },
+      {
+        "title": "https://research.cec.sc.edu/files/cyberinfra/files/an_exhaustive_survey_on_p4_programmable_data_plane_switches_taxonomy_applications_challenges_and_future_tren.pdf",
+        "url": "https://research.cec.sc.edu/files/cyberinfra/files/an_exhaustive_survey_on_p4_programmable_data_plane_switches_taxonomy_applications_challenges_and_future_tren.pdf"
+      },
+      {
+        "title": "https://dl.acm.org/doi/pdf/10.1145/2740070.2626300",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/2740070.2626300"
+      },
+      {
+        "title": "https://arxiv.org/pdf/1902.04491.pdf",
+        "url": "https://arxiv.org/pdf/1902.04491.pdf"
+      },
+      {
+        "title": "https://www.opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf",
+        "url": "https://www.opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf"
+      },
+      {
+        "title": "https://github.com/p4lang/tutorials/tree/master/exercises/basic",
+        "url": "https://github.com/p4lang/tutorials/tree/master/exercises/basic"
+      },
+      {
+        "title": "https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-gupta.pdf",
+        "url": "https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-gupta.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 8,
+    "name": "Lesson 8: SDN (Part 2)",
+    "pages": [
+      {
+        "title": "Lesson 8 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-8-introduction"
+      },
+      {
+        "title": "Lesson 8 Readings and Additional Resources",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-8-readings-and-additional-resources"
+      },
+      {
+        "title": "Revisiting the Motivation for SDN",
+        "url": "https://gatech.instructure.com/courses/525598/pages/revisiting-the-motivation-for-sdn"
+      },
+      {
+        "title": "SDN Advantages",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-advantages"
+      },
+      {
+        "title": "The SDN Landscape",
+        "url": "https://gatech.instructure.com/courses/525598/pages/the-sdn-landscape"
+      },
+      {
+        "title": "SDN Infrastructure Layer",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-infrastructure-layer"
+      },
+      {
+        "title": "SDN Southbound Interfaces",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-southbound-interfaces"
+      },
+      {
+        "title": "SDN Controllers: Centralized vs Distributed ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-controllers-centralized-vs-distributed"
+      },
+      {
+        "title": "An example Controller: ONOS",
+        "url": "https://gatech.instructure.com/courses/525598/pages/an-example-controller-onos"
+      },
+      {
+        "title": "Programming the Data Plane: The Motivation ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/programming-the-data-plane-the-motivation"
+      },
+      {
+        "title": "Programming the Data Plane: P4's Forwarding Model ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/programming-the-data-plane-p4s-forwarding-model"
+      },
+      {
+        "title": "Optional: An introduction To The P4 Programming Language",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-an-introduction-to-the-p4-programming-language"
+      },
+      {
+        "title": "SDN Applications: Overview ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-applications-overview"
+      },
+      {
+        "title": "SDN Application Example: A Software Defined Internet Exchange",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-application-example-a-software-defined-internet-exchange"
+      },
+      {
+        "title": "SDN Applications: Wide Area Traffic Delivery ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/sdn-applications-wide-area-traffic-delivery"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf",
+        "url": "https://www.cs.princeton.edu/courses/archive/fall13/cos597E/papers/sdnhistory.pdf"
+      },
+      {
+        "title": "https://arxiv.org/pdf/1406.0440.pdf",
+        "url": "https://arxiv.org/pdf/1406.0440.pdf"
+      },
+      {
+        "title": "https://classpages.cselabs.umn.edu/Fall-2019/csci8211/Papers/SDN%20Controller%20ONOS-hotsdn14.pdf",
+        "url": "https://classpages.cselabs.umn.edu/Fall-2019/csci8211/Papers/SDN%20Controller%20ONOS-hotsdn14.pdf"
+      },
+      {
+        "title": "https://www.cs.princeton.edu/~jrex/papers/P4-ccr14.pdf",
+        "url": "https://www.cs.princeton.edu/~jrex/papers/P4-ccr14.pdf"
+      },
+      {
+        "title": "https://research.cec.sc.edu/files/cyberinfra/files/an_exhaustive_survey_on_p4_programmable_data_plane_switches_taxonomy_applications_challenges_and_future_tren.pdf",
+        "url": "https://research.cec.sc.edu/files/cyberinfra/files/an_exhaustive_survey_on_p4_programmable_data_plane_switches_taxonomy_applications_challenges_and_future_tren.pdf"
+      },
+      {
+        "title": "https://dl.acm.org/doi/pdf/10.1145/2740070.2626300",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/2740070.2626300"
+      },
+      {
+        "title": "https://arxiv.org/pdf/1902.04491.pdf",
+        "url": "https://arxiv.org/pdf/1902.04491.pdf"
+      },
+      {
+        "title": "https://www.opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf",
+        "url": "https://www.opennetworking.org/wp-content/uploads/2013/02/TR_SDN_ARCH_1.0_06062014.pdf"
+      },
+      {
+        "title": "https://github.com/p4lang/tutorials/tree/master/exercises/basic",
+        "url": "https://github.com/p4lang/tutorials/tree/master/exercises/basic"
+      },
+      {
+        "title": "https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-gupta.pdf",
+        "url": "https://www.usenix.org/system/files/conference/nsdi16/nsdi16-paper-gupta.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 9,
+    "name": "Lesson 9: Internet Security",
+    "pages": [
+      {
+        "title": "Lesson 9 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-9-introduction"
+      },
+      {
+        "title": "Lesson 9 Readings and Additional Resources",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-9-readings-and-additional-resources"
+      },
+      {
+        "title": "Properties of Secure Communication",
+        "url": "https://gatech.instructure.com/courses/525598/pages/properties-of-secure-communication"
+      },
+      {
+        "title": "DNS Abuse",
+        "url": "https://gatech.instructure.com/courses/525598/pages/dns-abuse"
+      },
+      {
+        "title": "How to Infer Network Reputation: Evidence of Abuse",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-to-infer-network-reputation-evidence-of-abuse"
+      },
+      {
+        "title": "How to Infer Network Reputation: Interconnection Patterns",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-to-infer-network-reputation-interconnection-patterns"
+      },
+      {
+        "title": "How to Infer Network Reputation: Likelihood of Breach",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-to-infer-network-reputation-likelihood-of-breach"
+      },
+      {
+        "title": "Traffic Attraction Attacks:  BGP Hijacking  ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/traffic-attraction-attacks-bgp-hijacking"
+      },
+      {
+        "title": "Traffic Attraction Attacks:  Motivations",
+        "url": "https://gatech.instructure.com/courses/525598/pages/traffic-attraction-attacks-motivations"
+      },
+      {
+        "title": "Example BGP Hijack Attacks",
+        "url": "https://gatech.instructure.com/courses/525598/pages/example-bgp-hijack-attacks"
+      },
+      {
+        "title": "Defending against BGP Hijacking: An example detection system",
+        "url": "https://gatech.instructure.com/courses/525598/pages/defending-against-bgp-hijacking-an-example-detection-system"
+      },
+      {
+        "title": "Defending against BGP Hijacking: Example Mitigation Techniques",
+        "url": "https://gatech.instructure.com/courses/525598/pages/defending-against-bgp-hijacking-example-mitigation-techniques"
+      },
+      {
+        "title": "Optional: Interact with a BGP prefix hijacking detection system",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-interact-with-a-bgp-prefix-hijacking-detection-system"
+      },
+      {
+        "title": "Optional Reading: A Hijacking Case Study - Background ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-a-hijacking-case-study-background"
+      },
+      {
+        "title": "Optional Reading: A Hijacking Case Study - Attack Progression",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-a-hijacking-case-study-attack-progression"
+      },
+      {
+        "title": "DDoS: Background and Spoofing ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/ddos-background-and-spoofing"
+      },
+      {
+        "title": "DDoS: Reflection and Amplification",
+        "url": "https://gatech.instructure.com/courses/525598/pages/ddos-reflection-and-amplification"
+      },
+      {
+        "title": "Defenses Against DDoS Attacks ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/defenses-against-ddos-attacks"
+      },
+      {
+        "title": "DDoS Mitigation Techniques: BGP Blackholing",
+        "url": "https://gatech.instructure.com/courses/525598/pages/ddos-mitigation-techniques-bgp-blackholing"
+      },
+      {
+        "title": "DDoS Mitigation Techniques: BGP Blackholing  Limitations and Problems",
+        "url": "https://gatech.instructure.com/courses/525598/pages/ddos-mitigation-techniques-bgp-blackholing-limitations-and-problems"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://www.ndss-symposium.org/wp-content/uploads/2017/09/Measuring-and-Detecting-Fast-Flux-Service-Networks-paper-Thorsten-Holz.pdf",
+        "url": "https://www.ndss-symposium.org/wp-content/uploads/2017/09/Measuring-and-Detecting-Fast-Flux-Service-Networks-paper-Thorsten-Holz.pdf"
+      },
+      {
+        "title": "https://sites.cs.ucsb.edu/~chris/research/doc/acsac09_fire.pdf",
+        "url": "https://sites.cs.ucsb.edu/~chris/research/doc/acsac09_fire.pdf"
+      },
+      {
+        "title": "https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p625.pdf",
+        "url": "https://conferences.sigcomm.org/sigcomm/2015/pdf/papers/p625.pdf"
+      },
+      {
+        "title": "https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-liu.pdf",
+        "url": "https://www.usenix.org/system/files/conference/usenixsecurity15/sec15-paper-liu.pdf"
+      },
+      {
+        "title": "https://www.inspire.edu.gr/wp-content/pdfs/artemis_TON2018.pdf",
+        "url": "https://www.inspire.edu.gr/wp-content/pdfs/artemis_TON2018.pdf"
+      },
+      {
+        "title": "https://www.researchgate.net/profile/Bahaa_Musawi/publication/309519246_BGP_Anomaly_Detection_Techniques_A_Survey/links/5a63db73aca272a1581bf3ea/BGP-Anomaly-Detection-Techniques-A-Survey.pdf",
+        "url": "https://www.researchgate.net/profile/Bahaa_Musawi/publication/309519246_BGP_Anomaly_Detection_Techniques_A_Survey/links/5a63db73aca272a1581bf3ea/BGP-Anomaly-Detection-Techniques-A-Survey.pdf"
+      },
+      {
+        "title": "https://dl.acm.org/doi/10.1145/2479957.2479959",
+        "url": "https://dl.acm.org/doi/10.1145/2479957.2479959"
+      },
+      {
+        "title": "https://www.engineering.iastate.edu/~daniels/cpre592TD/readings/Anonymity_and_Concealment/paxson01analysis.pdf",
+        "url": "https://www.engineering.iastate.edu/~daniels/cpre592TD/readings/Anonymity_and_Concealment/paxson01analysis.pdf"
+      },
+      {
+        "title": "https://dl.acm.org/doi/10.1145/3281411.3281413",
+        "url": "https://dl.acm.org/doi/10.1145/3281411.3281413"
+      },
+      {
+        "title": "https://dl.acm.org/doi/10.1145/3131365.3131379",
+        "url": "https://dl.acm.org/doi/10.1145/3131365.3131379"
+      },
+      {
+        "title": "https://ripe78.ripe.net/presentations/9-RIPE_Presentation_MW.pdf",
+        "url": "https://ripe78.ripe.net/presentations/9-RIPE_Presentation_MW.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 10,
+    "name": "Lesson 10: Internet Surveillance and Censorship",
+    "pages": [
+      {
+        "title": "Lesson 10 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-10-introduction"
+      },
+      {
+        "title": "Lesson 10 Readings and Additional Resources",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-10-readings-and-additional-resources"
+      },
+      {
+        "title": "DNS Censorship: What is it?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/dns-censorship-what-is-it"
+      },
+      {
+        "title": "Example DNS Censorship Techniques (1)",
+        "url": "https://gatech.instructure.com/courses/525598/pages/example-dns-censorship-techniques-1"
+      },
+      {
+        "title": " Example DNS Censorship Techniques (2) ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/example-dns-censorship-techniques-2"
+      },
+      {
+        "title": "Why is DNS Manipulation Difficult to Measure?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/why-is-dns-manipulation-difficult-to-measure"
+      },
+      {
+        "title": "Example Censorship Detection Systems and Their Limitations",
+        "url": "https://gatech.instructure.com/courses/525598/pages/example-censorship-detection-systems-and-their-limitations"
+      },
+      {
+        "title": "DNS Censorship: A Global Measurement Methodology",
+        "url": "https://gatech.instructure.com/courses/525598/pages/dns-censorship-a-global-measurement-methodology"
+      },
+      {
+        "title": "Censorship Through Connectivity Disruptions ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/censorship-through-connectivity-disruptions"
+      },
+      {
+        "title": "Optional Reading: Connectivity Disruptions: A Case Study ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-connectivity-disruptions-a-case-study"
+      },
+      {
+        "title": "Connectivity Disruptions: Detection",
+        "url": "https://gatech.instructure.com/courses/525598/pages/connectivity-disruptions-detection"
+      },
+      {
+        "title": "Optional: Censorship Over Social Media",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-censorship-over-social-media"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://www.usenix.org/system/files/conference/foci14/foci14-anonymous.pdf",
+        "url": "https://www.usenix.org/system/files/conference/foci14/foci14-anonymous.pdf"
+      },
+      {
+        "title": "https://www.cl.cam.ac.uk/~rnc1/ignoring.pdf",
+        "url": "https://www.cl.cam.ac.uk/~rnc1/ignoring.pdf"
+      },
+      {
+        "title": "https://www.cc.gatech.edu/~pearce/papers/dns_usenix_2017.pdf",
+        "url": "https://www.cc.gatech.edu/~pearce/papers/dns_usenix_2017.pdf"
+      },
+      {
+        "title": "https://www.caida.org/publications/papers/2011/outages_censorship/outages_censorship.pdf",
+        "url": "https://www.caida.org/publications/papers/2011/outages_censorship/outages_censorship.pdf"
+      },
+      {
+        "title": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958591",
+        "url": "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7958591"
+      },
+      {
+        "title": "https://www.icir.org/vern/papers/kremlin-bots.leet11.pdf",
+        "url": "https://www.icir.org/vern/papers/kremlin-bots.leet11.pdf"
+      },
+      {
+        "title": "https://www.usenix.org/system/files/conference/foci13/foci13-verkamp.pdf",
+        "url": "https://www.usenix.org/system/files/conference/foci13/foci13-verkamp.pdf"
+      }
+    ]
+  },
+  {
+    "lesson": 11,
+    "name": "Lesson 11: Applications: Video & Multimedia",
+    "pages": [
+      {
+        "title": "Lesson 11 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-11-introduction"
+      },
+      {
+        "title": "Lesson 11 Readings and Additional Resources",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-11-readings-and-additional-resources"
+      },
+      {
+        "title": "Multimedia Applications: A Perspective From the Network",
+        "url": "https://gatech.instructure.com/courses/525598/pages/multimedia-applications-a-perspective-from-the-network"
+      },
+      {
+        "title": "Background: Video and Audio Characteristics",
+        "url": "https://gatech.instructure.com/courses/525598/pages/background-video-and-audio-characteristics"
+      },
+      {
+        "title": "Types of Multimedia Applications and Characteristics",
+        "url": "https://gatech.instructure.com/courses/525598/pages/types-of-multimedia-applications-and-characteristics"
+      },
+      {
+        "title": "How Does VoIP Work?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-does-voip-work"
+      },
+      {
+        "title": "QoS for VoIP: Metrics ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/qos-for-voip-metrics"
+      },
+      {
+        "title": "QoS for VoIP: End-to-End Delay",
+        "url": "https://gatech.instructure.com/courses/525598/pages/qos-for-voip-end-to-end-delay"
+      },
+      {
+        "title": "QoS for VoIP: Delay Jitter",
+        "url": "https://gatech.instructure.com/courses/525598/pages/qos-for-voip-delay-jitter"
+      },
+      {
+        "title": "QoS for VoIP: Packet Loss",
+        "url": "https://gatech.instructure.com/courses/525598/pages/qos-for-voip-packet-loss"
+      },
+      {
+        "title": "Live/On Demand Streaming Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/live-slash-on-demand-streaming-introduction"
+      },
+      {
+        "title": "Video Streaming Bigger Picture",
+        "url": "https://gatech.instructure.com/courses/525598/pages/video-streaming-bigger-picture"
+      },
+      {
+        "title": "Optional: Sources of Redundancy in Video Compression",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-sources-of-redundancy-in-video-compression"
+      },
+      {
+        "title": "Optional: Image Compression",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-image-compression"
+      },
+      {
+        "title": "Optional: Video Compression and Temporal Redundancy",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-video-compression-and-temporal-redundancy"
+      },
+      {
+        "title": "Optional: VBR vs CBR",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-vbr-vs-cbr"
+      },
+      {
+        "title": "UDP vs TCP",
+        "url": "https://gatech.instructure.com/courses/525598/pages/udp-vs-tcp"
+      },
+      {
+        "title": "Why Do We Use HTTP?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/why-do-we-use-http"
+      },
+      {
+        "title": "Progressive Download vs Streaming",
+        "url": "https://gatech.instructure.com/courses/525598/pages/progressive-download-vs-streaming"
+      },
+      {
+        "title": "How to Handle Network and User Device Diversity?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-to-handle-network-and-user-device-diversity"
+      },
+      {
+        "title": "Bitrate Adaptation in DASH",
+        "url": "https://gatech.instructure.com/courses/525598/pages/bitrate-adaptation-in-dash"
+      },
+      {
+        "title": "What are the Goals of Bitrate Adaptation?",
+        "url": "https://gatech.instructure.com/courses/525598/pages/what-are-the-goals-of-bitrate-adaptation"
+      },
+      {
+        "title": "Bitrate Adaptation Algorithms",
+        "url": "https://gatech.instructure.com/courses/525598/pages/bitrate-adaptation-algorithms"
+      },
+      {
+        "title": "Throughput-Based Adaptation and its Limitations",
+        "url": "https://gatech.instructure.com/courses/525598/pages/throughput-based-adaptation-and-its-limitations"
+      },
+      {
+        "title": "Rate-based Adaptation Mechanisms",
+        "url": "https://gatech.instructure.com/courses/525598/pages/rate-based-adaptation-mechanisms"
+      },
+      {
+        "title": "Issues with Bitrate Adaptation",
+        "url": "https://gatech.instructure.com/courses/525598/pages/issues-with-bitrate-adaptation"
+      },
+      {
+        "title": "Problem of Bandwidth OVER-Estimation with Rate-Based Adaptation",
+        "url": "https://gatech.instructure.com/courses/525598/pages/problem-of-bandwidth-over-estimation-with-rate-based-adaptation"
+      },
+      {
+        "title": "Problem of Bandwidth UNDER-Estimation with Rate-Based Adaption",
+        "url": "https://gatech.instructure.com/courses/525598/pages/problem-of-bandwidth-under-estimation-with-rate-based-adaption"
+      },
+      {
+        "title": "Rate-Based Adaptation Conclusion",
+        "url": "https://gatech.instructure.com/courses/525598/pages/rate-based-adaptation-conclusion"
+      },
+      {
+        "title": "Optional Reading: Bitrate Adaptation Algorithm: Buffer-Based",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-bitrate-adaptation-algorithm-buffer-based"
+      },
+      {
+        "title": "Optional Reading: Buffer-Based Adaptation Example",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-buffer-based-adaptation-example"
+      },
+      {
+        "title": "Optional Reading: Issues with Buffer-Based Adaptation",
+        "url": "https://gatech.instructure.com/courses/525598/pages/optional-reading-issues-with-buffer-based-adaptation"
+      },
+      {
+        "title": "Bitrate Adaptation Conclusion",
+        "url": "https://gatech.instructure.com/courses/525598/pages/bitrate-adaptation-conclusion"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://www.sciencedirect.com/science/article/abs/pii/S1389128609001200",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S1389128609001200"
+      },
+      {
+        "title": "https://dl.acm.org/doi/pdf/10.1145/103085.103090",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/103085.103090"
+      },
+      {
+        "title": "https://ieeexplore.ieee.org/document/125072",
+        "url": "https://ieeexplore.ieee.org/document/125072"
+      },
+      {
+        "title": "https://www.w3.org/Graphics/JPEG/jfif3.pdf",
+        "url": "https://www.w3.org/Graphics/JPEG/jfif3.pdf"
+      },
+      {
+        "title": "https://ieeexplore.ieee.org/document/5677508",
+        "url": "https://ieeexplore.ieee.org/document/5677508"
+      },
+      {
+        "title": "https://www.cs.cmu.edu/~xia/resources/Documents/Balachandran-hotnets2012.pdf",
+        "url": "https://www.cs.cmu.edu/~xia/resources/Documents/Balachandran-hotnets2012.pdf"
+      },
+      {
+        "title": "https://dl.acm.org/doi/pdf/10.1145/2398776.2398800",
+        "url": "https://dl.acm.org/doi/pdf/10.1145/2398776.2398800"
+      }
+    ]
+  },
+  {
+    "lesson": 12,
+    "name": "Lesson 12: Applications: CDNs and Overlay Networks",
+    "pages": [
+      {
+        "title": "Lesson 12 Introduction",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-12-introduction"
+      },
+      {
+        "title": "Lesson 12 Readings and Additional Resources",
+        "url": "https://gatech.instructure.com/courses/525598/pages/lesson-12-readings-and-additional-resources"
+      },
+      {
+        "title": "Introduction to Content Distribution Networks",
+        "url": "https://gatech.instructure.com/courses/525598/pages/introduction-to-content-distribution-networks"
+      },
+      {
+        "title": "Content Delivery Challenges",
+        "url": "https://gatech.instructure.com/courses/525598/pages/content-delivery-challenges"
+      },
+      {
+        "title": "CDNs and the Internet Ecosystem",
+        "url": "https://gatech.instructure.com/courses/525598/pages/cdns-and-the-internet-ecosystem"
+      },
+      {
+        "title": "CDNs Server Placement Approaches",
+        "url": "https://gatech.instructure.com/courses/525598/pages/cdns-server-placement-approaches"
+      },
+      {
+        "title": "How a CDN Operates",
+        "url": "https://gatech.instructure.com/courses/525598/pages/how-a-cdn-operates"
+      },
+      {
+        "title": "CDN Server Selection",
+        "url": "https://gatech.instructure.com/courses/525598/pages/cdn-server-selection"
+      },
+      {
+        "title": "Cluster Selection Strategies",
+        "url": "https://gatech.instructure.com/courses/525598/pages/cluster-selection-strategies"
+      },
+      {
+        "title": "Policy for Server Selection",
+        "url": "https://gatech.instructure.com/courses/525598/pages/policy-for-server-selection"
+      },
+      {
+        "title": "Consistent Hashing",
+        "url": "https://gatech.instructure.com/courses/525598/pages/consistent-hashing"
+      },
+      {
+        "title": "Network Protocols Used for Cluster/Server Selections",
+        "url": "https://gatech.instructure.com/courses/525598/pages/network-protocols-used-for-cluster-slash-server-selections"
+      },
+      {
+        "title": "Server Selection Strategies: The DNS Protocol ",
+        "url": "https://gatech.instructure.com/courses/525598/pages/server-selection-strategies-the-dns-protocol"
+      },
+      {
+        "title": "More on DNS: Making Responses Faster with Caching",
+        "url": "https://gatech.instructure.com/courses/525598/pages/more-on-dns-making-responses-faster-with-caching"
+      },
+      {
+        "title": "More on DNS: Resource Records and Messages",
+        "url": "https://gatech.instructure.com/courses/525598/pages/more-on-dns-resource-records-and-messages"
+      },
+      {
+        "title": "Server Selection Strategies: IP Anycast",
+        "url": "https://gatech.instructure.com/courses/525598/pages/server-selection-strategies-ip-anycast"
+      },
+      {
+        "title": "Server Selection Strategies: HTTP Redirection",
+        "url": "https://gatech.instructure.com/courses/525598/pages/server-selection-strategies-http-redirection"
+      }
+    ],
+    "materials": [],
+    "readings": [
+      {
+        "title": "https://dl.acm.org/doi/10.1145/1842733.1842736",
+        "url": "https://dl.acm.org/doi/10.1145/1842733.1842736"
+      },
+      {
+        "title": "https://arxiv.org/pdf/1606.05519.pdf",
+        "url": "https://arxiv.org/pdf/1606.05519.pdf"
+      },
+      {
+        "title": "https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ganjam.pdf",
+        "url": "https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ganjam.pdf"
+      },
+      {
+        "title": "https://ieeexplore.ieee.org/document/6006028",
+        "url": "https://ieeexplore.ieee.org/document/6006028"
+      },
+      {
+        "title": "https://pdfs.semanticscholar.org/4c48/501e2aa3e9c3e2507617f8cec2db16b01490.pdf",
+        "url": "https://pdfs.semanticscholar.org/4c48/501e2aa3e9c3e2507617f8cec2db16b01490.pdf"
+      },
+      {
+        "title": "https://conferences.sigcomm.org/co-next/2013/program/p357.pdf",
+        "url": "https://conferences.sigcomm.org/co-next/2013/program/p357.pdf"
+      },
+      {
+        "title": "https://conferences.sigcomm.org/hotnets/2014/papers/hotnets-XIII-final121.pdf",
+        "url": "https://conferences.sigcomm.org/hotnets/2014/papers/hotnets-XIII-final121.pdf"
+      },
+      {
+        "title": "https://www.isi.edu/~johnh/PAPERS/Fan15a.pdf",
+        "url": "https://www.isi.edu/~johnh/PAPERS/Fan15a.pdf"
+      },
+      {
+        "title": "https://doi.org/10.1145/2486001.2486025",
+        "url": "https://doi.org/10.1145/2486001.2486025"
+      },
+      {
+        "title": "https://www.google.com/about/datacenters/inside/locations/index.html",
+        "url": "https://www.google.com/about/datacenters/inside/locations/index.html"
+      },
+      {
+        "title": "https://doi.org/10.1145/1496046.1496064",
+        "url": "https://doi.org/10.1145/1496046.1496064"
+      },
+      {
+        "title": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf",
+        "url": "https://pdos.csail.mit.edu/papers/chord:sigcomm01/chord_sigcomm.pdf"
+      },
+      {
+        "title": "https://www.akamai.com/content/dam/site/en/documents/research-paper/pushing-cdn-isp-collaboration-to-the-limit-technical-publication.pdf",
+        "url": "https://www.akamai.com/content/dam/site/en/documents/research-paper/pushing-cdn-isp-collaboration-to-the-limit-technical-publication.pdf"
+      },
+      {
+        "title": "http://ccr.sigcomm.org/online/files/p315.pdf",
+        "url": "http://ccr.sigcomm.org/online/files/p315.pdf"
+      },
+      {
+        "title": "https://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p474.pdf",
+        "url": "https://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p474.pdf"
+      },
+      {
+        "title": "http://ccr.sigcomm.org/online/files/p2p_gaming.pdf",
+        "url": "http://ccr.sigcomm.org/online/files/p2p_gaming.pdf"
+      },
+      {
+        "title": "https://www.cs.cmu.edu/~junchenj/c3.pdf",
+        "url": "https://www.cs.cmu.edu/~junchenj/c3.pdf"
+      }
+    ]
   }
 ];
